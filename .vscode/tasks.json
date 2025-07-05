@@ -15,7 +15,9 @@
                 "panel": "shared",
                 // Don't show "Terminal will be reused by tasks, press any key to close it" message
                 "showReuseMessage": false
-            }
+            },
+            // Auto increment build number
+            "incrementBuildNumber": true
         },
         {
             // Opens the Playdate Simulator with our project .pdx
