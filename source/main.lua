@@ -12,7 +12,7 @@ import 'CoreLibs/ui'
 -- Toybox-managed libraries
 -- import 'toyboxes'
 -- Common utils
-import 'util/debug'
+import 'util/__init__'
 
 local pd <const> = playdate
 local gfx <const> = pd.graphics
